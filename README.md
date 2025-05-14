@@ -2,7 +2,9 @@
 
 ## 👥 Auteurs
 Othmane DOUDA
+
 Achille BERGERET
+
 Master ICE — Université Toulouse Jean Jaurès
 
 ## 🧩 Description
