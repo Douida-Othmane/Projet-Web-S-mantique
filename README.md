@@ -73,11 +73,11 @@ python CPA_WD_Evaluator.py
 
 ## ✅ Résultats Obtenus
 
-Tâche	F1-Score	Précision	Rappel
+Tâche	  F1-Score	  Précision  	Rappel
 
-CEA 	0.060	    0.153	    0.037
+CEA 	  0.060	      0.153	      0.037
 
-CTA 	0.027	    0.025	    0.029
+CTA 	  0.027	      0.025	      0.029
 
 CPA	 À compléter / à corriger selon les cas
 
