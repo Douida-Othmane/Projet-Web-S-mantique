@@ -21,16 +21,27 @@ Le projet repose sur des requêtes SPARQL et l’utilisation de l’API de reche
 ## 📁 Structure du Projet
 
 ├── main.py # Script principal pour générer CEA, CTA et CPA
+
 ├── outputs/ # Contient les fichiers générés : CEA.csv, CTA.csv, CPA.csv
+
 ├── WikidataTables2024R1/
+
 │ └── DataSets/
+
 │ └── Valid/
+
 │ ├── tables/ # Tables CSV anonymes
+
 │ └── targets/ # Fichiers cibles à annoter : cea_targets.csv, cta_targets.csv, cpa_targets.csv
+
 ├── évaluation/
+
 │ ├── CEA_WD_Evaluator.py
+
 │ ├── CTA_WD_Evaluator.py
+
 │ └── CPA_WD_Evaluator.py
+
 └── README.md
 
 ---
