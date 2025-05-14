@@ -1,0 +1,5 @@
+🧪 Évaluation CEA
+F1: 0.060, Precision: 0.153, Recall: 0.037
+
+🧪 Évaluation CTA
+F1: 0.027, Precision: 0.025, Recall: 0.029
